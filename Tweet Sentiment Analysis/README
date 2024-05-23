@@ -1,0 +1,5 @@
+This is my Tweet Sentiment Analysis Project. 
+
+In order to run this program, all files provided must be in the same folder, and main.py should be run in an IDE that runs Python. 
+
+main.py will import everything from sentiment_analysis, so only main.py needs to be run in an IDE. 
