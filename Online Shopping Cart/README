@@ -1,0 +1,4 @@
+This is my Online Shopping Cart project. 
+In order to run this program, all files provided must be in the same folder. 
+Then driver.py should be run in an IDE that runs Python. 
+driver.py will import everything from assign4.py, so only driver.py needs to be run.
